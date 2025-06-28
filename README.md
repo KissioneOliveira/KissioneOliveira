@@ -7,7 +7,7 @@
 
 - 💼 Estou construindo projetos autorais como o **ContactPro HTMX**, focado em produtividade e visual moderno.
 
-- 📫 Entre em contato: **kissione@gmail.com** *(ou seu e-mail principal)*
+- 📫 Entre em contato: **kissioneadm@gmail.com** *(ou seu e-mail principal)*
 
 - 💬 Curioso sobre **automação, back-end e criação de interfaces intuitivas**.
 
@@ -17,7 +17,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white)
 ![HTMX](https://img.shields.io/badge/-HTMX-336699?style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white)
 
