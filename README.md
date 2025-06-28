@@ -3,13 +3,13 @@
 
 ---
 
-- 🌱 Atualmente estou estudando **Engenharia da Computação** e me aprofundando em **Desenvolvimento Web** e **Projetos com PHP, HTMX e TailwindCSS**.
+- 🌱 Atualmente estou estudando **Engenharia da Computação** e me aprofundando em **Desenvolvimento Web**.
 
 - 💼 Estou construindo projetos autorais como o **ContactPro HTMX**, focado em produtividade e visual moderno.
 
 - 📫 Entre em contato: **kissioneadm@gmail.com** 
 
-- 💬 Curioso sobre **automação, back-end e criação de interfaces intuitivas**.
+- 💬 Curioso sobre **automação, front-end, back-end e criação de interfaces intuitivas**.
 
 ---
 
