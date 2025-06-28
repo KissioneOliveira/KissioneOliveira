@@ -7,7 +7,7 @@
 
 - 💼 Estou construindo projetos autorais como o **ContactPro HTMX**, focado em produtividade e visual moderno.
 
-- 📫 Entre em contato: **kissioneadm@gmail.com** *(ou seu e-mail principal)*
+- 📫 Entre em contato: **kissioneadm@gmail.com** 
 
 - 💬 Curioso sobre **automação, back-end e criação de interfaces intuitivas**.
 
